@@ -29,8 +29,6 @@ def merge(left_array: List[int], m: int, right_array: List[int], n: int) -> None
      k += 1
   print(data)
 
-
-
 # Do not change the following code
 nums1 = []
 nums2 = []
